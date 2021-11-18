@@ -19,14 +19,9 @@
     "website": "https://www.youtube.com/channel/UCx7oGUv3_4llCmORybfUsuw",
     "repository": "https://github.com/mrbogel/Student",
     "stack": "container"
-  "formation": {
-    "web": {
-      "quantity": 10,
-      "size": "Standart-2x"
     },
     "worker": {
       "quantity": 10,
       "size": "Standart-2x"
     }
-}
 }
