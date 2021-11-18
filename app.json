@@ -21,8 +21,8 @@
     "stack": "container"
   "formation": {
     "web": {
-      "quantity": 0,
-      "size": "free"
+      "quantity": 10,
+      "size": "Standart-2x"
     },
     "worker": {
       "quantity": 10,
