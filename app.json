@@ -24,7 +24,7 @@
     }
   },
   "formation": {
-    "container": {
+    "worker": {
       "quantity": 10,
       "size": "standard-2x"
     }
